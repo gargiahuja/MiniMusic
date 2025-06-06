@@ -1,4 +1,4 @@
-# 🎵 MiniMagic
+# 🎵 MiniMusic
 
 **MiniMagic** is a simple terminal-based Python music player built using the `pygame` library.  
 You can create your own playlist, play, pause, resume, stop songs, and even loop them — all from the terminal.
